@@ -1,0 +1,36 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Repo for my resume website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmikkelsen22/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmikkelsen22/resume/issues"
+  },
+  "homepage": "https://github.com/bmikkelsen22/resume#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-jsx": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/next": "^7.0.6",
+    "@types/react": "^16.7.20",
+    "@types/react-dom": "^16.0.11",
+    "@types/styled-jsx": "2.2.7",
+    "@zeit/next-typescript": "^1.1.1",
+    "typescript": "3.2.4"
+  }
+}

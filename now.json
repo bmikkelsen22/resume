@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "brooks-resume",
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@now/next"
+    }
+  ],
+  "alias": "brooks.now.sh"
+}
